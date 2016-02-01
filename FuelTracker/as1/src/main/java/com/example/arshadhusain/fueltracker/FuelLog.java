@@ -1,3 +1,12 @@
+/**
+ * This class creates a FuelLog object and has methods to get and reset individual attributes.
+ *
+ * Issues: Unable to implement an error check if the user adds log with no attributes
+ */
+
+
+
+
 package com.example.arshadhusain.fueltracker;
 
 import java.math.BigDecimal;
