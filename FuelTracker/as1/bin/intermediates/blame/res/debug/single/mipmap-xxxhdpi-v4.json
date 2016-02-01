@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/as1/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/as1/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

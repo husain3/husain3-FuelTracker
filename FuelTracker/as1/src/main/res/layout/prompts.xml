@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layout_root"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp" >
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add Entry (Do not include units)"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <EditText
+        android:id="@+id/userInput6"
+        android:layout_width="match_parent"
+        android:hint="Date (yyyy-mm-dd)"
+        android:inputType="text"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+
+    <EditText
+        android:id="@+id/userInput"
+        android:layout_width="match_parent"
+        android:hint="Station"
+        android:inputType="text"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/userInput1"
+        android:layout_width="match_parent"
+        android:hint="Odometer Reading (km)"
+        android:inputType="text"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/userInput2"
+        android:layout_width="match_parent"
+        android:hint="Fuel Grade"
+        android:inputType="text"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/userInput3"
+        android:layout_width="match_parent"
+        android:hint="Fuel Amount (L)"
+        android:inputType="text"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+    <EditText
+        android:id="@+id/userInput4"
+        android:layout_width="match_parent"
+        android:hint="Fuel Unit Cost (cents/L)"
+        android:inputType="text"
+        android:layout_height="wrap_content" >
+
+        <requestFocus />
+
+    </EditText>
+
+
+
+</LinearLayout>

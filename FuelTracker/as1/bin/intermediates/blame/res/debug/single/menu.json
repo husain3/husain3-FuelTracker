@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/as1/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/Users/arshadhusain/AndroidStudioProjects/FuelTracker/as1/src/main/res/menu/menu_main.xml"
+    }
+]
