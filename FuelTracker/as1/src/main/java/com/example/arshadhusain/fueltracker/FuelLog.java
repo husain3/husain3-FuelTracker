@@ -165,7 +165,7 @@ public class FuelLog {
         return bd.doubleValue();
     }
 
-    public boolean isDouble(String str) { //Taken from :http://stackoverflow.com/questions/3133770/how-to-find-out-if-the-value-contained-in-a-string-is-double-or-not
+    public boolean isDouble(String str) { //Taken from: http://stackoverflow.com/questions/3133770/how-to-find-out-if-the-value-contained-in-a-string-is-double-or-not
         try {
             Double.parseDouble(str);
             return true;
